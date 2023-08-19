@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flight ML Application</string>
+    <string name="one_way">One Way</string>
+    <string name="round_trip">Round Trip</string>
+</resources>

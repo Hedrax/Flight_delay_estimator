@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Classes">
+        <item>First Class</item>
+        <item>Business</item>
+        <item>Premium Economy Class</item>
+        <item>Economy</item>
+    </string-array>
+    <string-array name="Carriers">
+        <item>AirTran Airways Corporation</item>
+        <item>American Airlines Inc.</item>
+        <item>Delta Air Lines Inc.</item>
+        <item>Endeavor Air Inc.</item>
+        <item>Envoy Air</item>
+        <item>ExpressJet Airlines Inc.</item>
+        <item>JetBlue Airways</item>
+        <item>Southwest Airlines Co.</item>
+        <item>United Air Lines Inc.</item>
+        <item>US Airways Inc.</item>
+        <item>Virgin America</item>
+    </string-array>
+    <string-array name="Airports_org">
+        <item>Newark Liberty International Airport</item>
+        <item>Seattle-Tacoma International Airport</item>
+        <item>John F. Kennedy International Airport</item>
+    </string-array>
+    <string-array name="AirportsShortcuts_org">
+        <item>EWR</item>
+        <item>SEA</item>
+        <item>JFK</item>
+    </string-array>
+    <string-array name="Airports_dest">
+        <item>Albuquerque International Sunport</item>
+        <item>Nantucket Memorial Airport</item>
+        <item>Hartsfield-Jackson Atlanta International Airport</item>
+        <item>Austin-Bergstrom International Airport</item>
+        <item>Bangor International Airport</item>
+        <item>Birmingham-Shuttlesworth International Airport</item>
+        <item>Nashville International Airport</item>
+        <item>Boston Logan International Airport</item>
+        <item>Rafael Hernández Airport</item>
+        <item>Burlington International Airport</item>
+        <item>Buffalo Niagara International Airport</item>
+        <item>Hollywood Burbank Airport</item>
+        <item>Baltimore/Washington International Thurgood Marshall Airport</item>
+        <item>Cleveland Hopkins International Airport</item>
+        <item>Charlotte Douglas International Airport</item>
+        <item>John Glenn Columbus International Airport</item>
+        <item>Cincinnati/Northern Kentucky International Airport</item>
+        <item>Dayton International Airport</item>
+        <item>Ronald Reagan Washington National Airport</item>
+        <item>Denver International Airport</item>
+        <item>Dallas/Fort Worth International Airport</item>
+        <item>Detroit Metropolitan Wayne County Airport</item>
+        <item>Fort Lauderdale-Hollywood International Airport</item>
+        <item>Piedmont Triad International Airport</item>
+        <item>Greenville-Spartanburg International Airport</item>
+        <item>Yampa Valley Regional Airport</item>
+        <item>Daniel K. Inouye International Airport</item>
+        <item>William P. Hobby Airport</item>
+        <item>Washington Dulles International Airport</item>
+        <item>George Bush Intercontinental Airport</item>
+        <item>Wilmington International Airport</item>
+        <item>Indianapolis International Airport</item>
+        <item>Jackson Hole Airport</item>
+        <item>Jacksonville International Airport</item>
+        <item>McCarran International Airport</item>
+        <item>Los Angeles International Airport</item>
+        <item>Blue Grass Airport</item>
+        <item>LaGuardia Airport</item>
+        <item>Long Beach Airport</item>
+        <item>Kansas City International Airport</item>
+        <item>Orlando International Airport</item>
+    </string-array>
+    <string-array name="AirportsShortCuts_dest">
+        <item>ABQ</item>
+        <item>ACK</item>
+        <item>ATL</item>
+        <item>AUS</item>
+        <item>BGR</item>
+        <item>BHM</item>
+        <item>BNA</item>
+        <item>BOS</item>
+        <item>BQN</item>
+        <item>BTV</item>
+        <item>BUF</item>
+        <item>BUR</item>
+        <item>BWI</item>
+        <item>CLE</item>
+        <item>CLT</item>
+        <item>CMH</item>
+        <item>CVG</item>
+        <item>DAY</item>
+        <item>DCA</item>
+        <item>DEN</item>
+        <item>DFW</item>
+        <item>DTW</item>
+        <item>FLL</item>
+        <item>GSO</item>
+        <item>GSP</item>
+        <item>HDN</item>
+        <item>HNL</item>
+        <item>HOU</item>
+        <item>IAD</item>
+        <item>IAH</item>
+        <item>ILM</item>
+        <item>IND</item>
+        <item>JAC</item>
+        <item>JAX</item>
+        <item>LAS</item>
+        <item>LAX</item>
+        <item>LEX</item>
+        <item>LGA</item>
+        <item>LGB</item>
+        <item>MCI</item>
+        <item>MCO</item>
+    </string-array>
+</resources>
